@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+    phpswoole:
+        image: openswoole/swoole:php8.2-alpine
+        container_name: pictlonis_phpswoole
+        ports:
+            - 9502:9502
+        volumes:
+            - ./websocket:/var/www/html
+        working_dir: /var/www/html
+        # command: sleep infinity
+        command: php server.php

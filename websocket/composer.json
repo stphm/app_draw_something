@@ -1,0 +1,17 @@
+{
+    "name": "damian972/websocket",
+    "autoload": {
+        "psr-4": {
+            "Damian972\\Websocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Damian972",
+            "email": "25445518+Damian972@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "openswoole/core": "^22.1"
+    }
+}

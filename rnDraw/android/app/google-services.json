@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843296825848",
+    "project_id": "etna-rn-draw-app",
+    "storage_bucket": "etna-rn-draw-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843296825848:android:ae639602bf3f5fb3ae760d",
+        "android_client_info": {
+          "package_name": "com.rndraw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843296825848-ol2ei3tp9njoeoj3upv0e1l4lqg4o6mj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98bemJtsEWmw8rWJF5GQsqAT1EVaJmP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843296825848-ol2ei3tp9njoeoj3upv0e1l4lqg4o6mj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

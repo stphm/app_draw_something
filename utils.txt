@@ -1,0 +1,4 @@
+https://medium.com/beyn-technology/serving-high-performance-the-symfony-app-with-swoole-docker-758d8f176889
+https://dev.to/robertobutti/websocket-with-php-4k2c
+
+https://hi-folks.hashnode.dev/websocket-with-php
